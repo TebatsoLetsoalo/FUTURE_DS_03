@@ -1,4 +1,3 @@
-
 # Dataset Information
 
 Dataset Used:
@@ -23,7 +22,6 @@ Helper Columns Created:
 - Conversion Status
 - Contact Frequency
 - Campaign Outcome Group
-- Call Duration Group
 
 Purpose of Analysis:
 The dataset was prepared for marketing funnel and conversion performance analysis using Microsoft Power BI.
